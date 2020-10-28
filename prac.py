@@ -12,3 +12,5 @@ bennett = Animal("Human", "Bennett", 20)
 print(bennett.age)
 bennett.birthday()
 print(bennett.age)
+bennett.name = "Bennett Kahn"
+print(bennett.name)
