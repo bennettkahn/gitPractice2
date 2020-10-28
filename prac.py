@@ -9,6 +9,9 @@ class Animal:
 
 
 bennett = Animal("Human", "Bennett", 20)
+corinne = Animal("Human", "Corinne Fruge", 20)
+
+
 print(bennett.age)
 bennett.birthday()
 print(bennett.age)
