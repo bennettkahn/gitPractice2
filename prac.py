@@ -17,3 +17,6 @@ bennett.birthday()
 print(bennett.age)
 bennett.name = "Bennett Kahn"
 print(bennett.name)
+print(corinne.age)
+corinne.birthday()
+print(corinne.age)
