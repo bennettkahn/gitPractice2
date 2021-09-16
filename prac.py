@@ -12,14 +12,7 @@ bennett = Animal("Human", "Bennett", 20)
 corinne = Animal("Human", "Corinne Fruge", 20)
 
 
-print(bennett.age)
-bennett.birthday()
-print(bennett.age)
-bennett.name = "Bennett Kahn"
-print(bennett.name)
-print(corinne.age)
-corinne.birthday()
-print(corinne.age)
+
 
 
 print("YO I BE TESTING STUFF")
