@@ -12,9 +12,6 @@ bennett = Animal("Human", "Bennett", 20)
 corinne = Animal("Human", "Corinne Fruge", 20)
 
 
-print("Please work")
-print('yo')
-
 
 print("YO I BE TESTING STUFF")
 print("I be printing stuff in Bennett")
