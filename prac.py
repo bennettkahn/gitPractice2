@@ -13,10 +13,10 @@ corinne = Animal("Human", "Corinne Fruge", 20)
 
 
 
-print("YO I BE TESTING STUFF")
-print("I be printing stuff in Bennett")
-print("I be testing stuff in new")
-print("I be testing stuff in new")
+print("YO I AM TESTING STUFF")
+print("I am printing stuff in Bennett")
+print("I am testing stuff in new")
+print("I am testing stuff in new")
 
 
 print("is this thing on")
