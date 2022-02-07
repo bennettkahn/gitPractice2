@@ -1,1 +1,3 @@
 # gitPractice2
+
+I just made this repository to practice my git skills! Adding, commiting, branching, merging, and the like...
